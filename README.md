@@ -50,28 +50,6 @@ En esta sección se muestran los certificados obtenidos en mi formación profesi
 
 Formulario de contacto para cualquier consulta o colaboración.
 
-## Instrucciones para clonar el proyecto
-
-### Clona este repositorio:
-
-```bash
-git clone https://github.com/Ridoolf/portfolio.git
-```
-
-### Instala las dependencias:
-
-```bash
-npm install
-```
-
-### Inicia el servidor de desarrollo:
-
-```bash
-npm run dev
-```
-
-### Abre http://localhost:3000 en tu navegador para ver el proyecto en acción.
-
 ## ¿Quieres contactarme?
 
 Si deseas ponerte en contacto conmigo, ya sea para una colaboración o cualquier consulta, puedes hacerlo a través del formulario que se encuentra en la sección de Contact.
