@@ -7,7 +7,7 @@ export const Projects = () => {
       title: "Live Chat ",
       description:
         "",
-      image: "src/assets/projects/liveChat.png",
+      image: "/assets/projects/liveChat.png",
       technologies: ["React", "CSS", "Firebase"],
       url: "https://live-chat-mu.vercel.app/",
       urlGit: "https://github.com/Ridoolf/live-chat",
@@ -16,7 +16,7 @@ export const Projects = () => {
       title: "To Do List ",
       description:
         "A React-based task list app that allows users to add, mark as completed, and delete tasks, with persistent storage using localStorage to retain tasks after page reloads.",
-      image: "src/assets/projects/toDo.png",
+      image: "/assets/projects/toDo.png",
       technologies: ["React", "CSS", "MUI"],
       url: "https://github.com/Ridoolf/ToDoList",
       urlGit: "https://github.com/Ridoolf/ToDoList",
@@ -25,7 +25,7 @@ export const Projects = () => {
       title: "Valorant Insider ",
       description:
         "A community platform for Valorant players, where they can share clips, post messages, and access detailed game information using HTML, CSS, JavaScript, and the Valorant API.",
-      image: "src/assets/projects/valoInsider.png",
+      image: "/assets/projects/valoInsider.png",
       technologies: ["HTML", "CSS", "JavaScript"],
       url: "https://github.com/Ridoolf/valorant-insider",
       urlGit: "https://github.com/Ridoolf/valorant-insider",
@@ -34,7 +34,7 @@ export const Projects = () => {
       title: "PokeDex ",
       description:
         "An interactive Pokédex developed with HTML, CSS, and JavaScript, allowing users to search and view information about different Pokémon dynamically.",
-      image: "src/assets/projects/pokeDex.png",
+      image: "/assets/projects/pokeDex.png",
       technologies: ["HTML", "CSS", "JavaScript"],
       url: "https://github.com/Ridoolf/pokedex",
       urlGit: "https://github.com/Ridoolf/pokedex",
@@ -44,7 +44,7 @@ export const Projects = () => {
       title: "Login ",
       description:
         "Python console application that allows users to register, log in, and store credentials in a JSON file. It includes data validation and an interactive menu for managing users.",
-      image: "src/assets/projects/login.png",
+      image: "/assets/projects/login.png",
       technologies: ["Python"],
       url: "https://github.com/Ridoolf/login-python/blob/main/pre-entrega1.py",
       urlGit:

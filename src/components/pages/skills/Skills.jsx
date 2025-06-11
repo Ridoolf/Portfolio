@@ -41,19 +41,19 @@ export const Skills = () => {
     {
       certificateTitle: "Web Developer",
       academy: "CoderHouse",
-      certificateImg: "src/assets/certificates_skills/dw.png",
+      certificateImg: "/assets/certificates/dw.png",
       downloadTitle: "LucasRidolfi_WebDeveloperCertificate",
     },
     {
       certificateTitle: "JavaScript",
       academy: "CoderHouse",
-      certificateImg: "src/assets/certificates_skills/js.png",
+      certificateImg: "/assets/certificates/js.png",
       downloadTitle: "LucasRidolfi_JavaScriptCertificate",
     },
     {
       certificateTitle: "ReactJS",
       academy: "CoderHouse",
-      certificateImg: "src/assets/certificates_skills/reactJS.png",
+      certificateImg: "/assets/certificates/reactJS.png",
       downloadTitle: "LucasRidolfi_ReactJSCertificate",
     },
   ];

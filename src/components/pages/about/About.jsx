@@ -1,5 +1,5 @@
 import "./About.css";
-import photo from "../../../assets/profile.png";
+import photo from "/assets/profile.png";
 import { BtnDownload } from "../../common/btnDownload/BtnDownload";
 
 export const About = () => {
@@ -18,7 +18,7 @@ export const About = () => {
         </p>
         <BtnDownload
           title={"CV"}
-          src={"src/assets/cv.pdf"}
+          src={"/assets/cv.pdf"}
           downloadTitle="LucasRidolfi_CV"
         />
       </div>
