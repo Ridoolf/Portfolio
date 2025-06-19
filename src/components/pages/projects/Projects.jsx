@@ -18,7 +18,7 @@ export const Projects = () => {
         "A React-based task list app that allows users to add, mark as completed, and delete tasks, with persistent storage using localStorage to retain tasks after page reloads.",
       image: "/assets/projects/toDo.png",
       technologies: ["React", "CSS", "MUI"],
-      url: "https://github.com/Ridoolf/ToDoList",
+      url: "https://to-do-list-beta-lovat-99.vercel.app/",
       urlGit: "https://github.com/Ridoolf/ToDoList",
     },
     {
@@ -27,7 +27,7 @@ export const Projects = () => {
         "A community platform for Valorant players, where they can share clips, post messages, and access detailed game information using HTML, CSS, JavaScript, and the Valorant API.",
       image: "/assets/projects/valoInsider.png",
       technologies: ["HTML", "CSS", "JavaScript"],
-      url: "https://github.com/Ridoolf/valorant-insider",
+      url: "https://valorant-insider-gamma.vercel.app/",
       urlGit: "https://github.com/Ridoolf/valorant-insider",
     },
     {
@@ -36,7 +36,7 @@ export const Projects = () => {
         "An interactive Pokédex developed with HTML, CSS, and JavaScript, allowing users to search and view information about different Pokémon dynamically.",
       image: "/assets/projects/pokeDex.png",
       technologies: ["HTML", "CSS", "JavaScript"],
-      url: "https://github.com/Ridoolf/pokedex",
+      url: "https://pokedex-iota-hazel-18.vercel.app/",
       urlGit: "https://github.com/Ridoolf/pokedex",
     },
 
