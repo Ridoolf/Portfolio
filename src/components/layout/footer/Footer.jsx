@@ -21,7 +21,7 @@ export const Footer = () => {
         </a>
       </div>
       <div className="copy">
-        © 2015 - 2025 Lucas Ridolfi All Rights Reserved.
+        © 2015 - 2025 | Lucas Ridolfi | All Rights Reserved.
       </div>
     </div>
   );
