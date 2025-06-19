@@ -6,7 +6,7 @@ export const Projects = () => {
     {
       title: "Live Chat ",
       description:
-        "",
+        "A real-time chat app built with React and Firebase Firestore, enabling users to join with a username and exchange messages instantly, with messages stored and synced live across clients.",
       image: "/assets/projects/liveChat.png",
       technologies: ["React", "CSS", "Firebase"],
       url: "https://live-chat-mu.vercel.app/",
